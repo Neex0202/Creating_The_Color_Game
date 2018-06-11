@@ -23,5 +23,17 @@ h1{
 }
 
 span {
-	color: white;
+	/*color: white;*/
+}
+
+#stripe{
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
+}
+
+
+#reset{
+	
 }
