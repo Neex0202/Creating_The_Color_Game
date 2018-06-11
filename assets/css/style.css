@@ -35,5 +35,9 @@ span {
 
 
 #reset{
-	
+
+}
+
+.selected {
+	background: blue;
 }
